@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email             = ['mail@daniel-mendler.de']
   s.summary           = 'Slim and Liquid working together.'
   s.description       = 'Process template with Slim and Liquid afterwards.'
-  s.homepage          = 'http://slim-lang.com/'
+  s.homepage          = 'http://slim-template.github.io/'
   s.rubyforge_project = s.name
   s.license           = 'MIT'
 
